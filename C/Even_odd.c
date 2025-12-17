@@ -1,4 +1,6 @@
-// Check even or odd
+// Program to check whether a number is even or odd
+// Author: Vinod Kumar
+// Date: 17/12/25
 #include <stdio.h>
 int main() {
     int n;
